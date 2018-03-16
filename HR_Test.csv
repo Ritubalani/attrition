@@ -1,0 +1,15 @@
+Age,Attrition,BusinessTravel,DailyRate,Department,DistanceFromHome,Education,EducationField,EmployeeCount,EmployeeNumber,EnvironmentSatisfaction,Gender,HourlyRate,JobInvolvement,JobLevel,JobRole,JobSatisfaction,MaritalStatus,MonthlyIncome,MonthlyRate,NumCompaniesWorked,Over18,OverTime,PercentSalaryHike,PerformanceRating,RelationshipSatisfaction,StandardHours,StockOptionLevel,TotalWorkingYears,TrainingTimesLastYear,WorkLifeBalance,YearsAtCompany,YearsInCurrentRole,YearsSinceLastPromotion,YearsWithCurrManager
+36,No,Travel_Rarely,1278,Human Resources,8,3,Life Sciences,1,878,1,Male,77,2,1,Human Resources,1,Married,2342,8635,0,Y,No,21,4,3,80,0,6,3,3,5,4,0,3
+31,No,Travel_Rarely,106,Human Resources,2,3,Human Resources,1,424,1,Male,62,2,2,Human Resources,1,Married,6410,17822,3,Y,No,12,3,4,80,0,9,1,3,2,2,1,0
+56,No,Travel_Rarely,206,Human Resources,8,4,Life Sciences,1,1338,4,Male,99,3,5,Manager,2,Single,19717,4022,6,Y,No,14,3,1,80,0,36,4,3,7,3,7,7
+45,No,Travel_Rarely,788,Human Resources,24,4,Medical,1,1049,2,Male,36,3,1,Human Resources,2,Single,2177,8318,1,Y,No,16,3,1,80,0,6,3,3,6,3,0,4
+59,No,Travel_Rarely,818,Human Resources,6,2,Medical,1,321,2,Male,52,3,1,Human Resources,3,Married,2267,25657,8,Y,No,17,3,4,80,0,7,2,2,2,2,2,2
+34,No,Travel_Frequently,648,Human Resources,11,3,Life Sciences,1,1289,3,Male,56,2,2,Human Resources,2,Married,4490,21833,4,Y,No,11,3,4,80,2,14,5,4,10,9,1,8
+39,No,Travel_Rarely,141,Human Resources,3,3,Human Resources,1,760,3,Female,44,4,2,Human Resources,2,Married,6389,18767,9,Y,No,15,3,3,80,1,12,3,1,8,3,3,6
+38,No,Travel_Rarely,433,Human Resources,1,3,Human Resources,1,1152,3,Male,37,4,1,Human Resources,3,Married,2844,6004,1,Y,No,13,3,4,80,1,7,2,4,7,6,5,0
+44,No,Travel_Rarely,528,Human Resources,1,3,Life Sciences,1,1683,3,Female,44,3,1,Human Resources,4,Divorced,3195,4167,4,Y,Yes,18,3,1,80,3,8,2,3,2,2,2,2
+44,No,Travel_Rarely,1112,Human Resources,1,4,Life Sciences,1,665,1,Female,50,2,2,Human Resources,3,Single,5985,26894,4,Y,No,11,3,2,80,0,10,1,4,2,2,0,2
+33,No,Travel_Rarely,1075,Human Resources,3,2,Human Resources,1,910,4,Male,57,3,1,Human Resources,2,Divorced,2277,22650,3,Y,Yes,11,3,3,80,1,7,4,4,4,3,0,3
+43,No,Travel_Rarely,244,Human Resources,2,3,Life Sciences,1,1778,2,Male,97,3,1,Human Resources,4,Single,3539,5033,0,Y,No,13,3,2,80,0,10,5,3,9,7,1,8
+25,No,Travel_Rarely,309,Human Resources,2,3,Human Resources,1,1987,3,Female,82,3,1,Human Resources,2,Married,2187,19655,4,Y,No,14,3,3,80,0,6,3,3,2,0,1,2
+54,No,Travel_Rarely,397,Human Resources,19,4,Medical,1,698,3,Male,88,3,3,Human Resources,2,Married,10725,6729,2,Y,No,15,3,3,80,1,16,1,4,9,7,7,1
